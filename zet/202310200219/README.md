@@ -1,5 +1,16 @@
-# How to make a zettel entry
+# My notes from the 2023 Beginner Boost
 
+
+Headings begin with octothorpes (#). Include a blank line after the heading to separate from following paragraph.
+
+```md
+# Heading 1
+
+Paragraph
+
+## Heading 2
+
+```
 This is the body of the zettel (which means "slip")
 
 * First bullet
