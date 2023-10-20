@@ -10,6 +10,16 @@ But, when I have an ordered or numbered list:
 1. First
 2. Second
 
+```go
+package main
+
+import "fmt"
+
+func main() {
+  fmt.Println("Hello world!")
+}
+```
+
 What if I want *italic* or **bold** or ***bolditalic***
 
 How about something that looks like `code`?
