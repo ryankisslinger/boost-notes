@@ -48,4 +48,5 @@ How about something that looks like `code`?
 Here is a [link to rwx.gg](https://rwx.gg).
 
 ## Images
-Images are just like links with 
+Images are just like links with an (!) in front of the square brackets.
+![photo](lachlan-dempsey-6VPEOdpFNAs-unsplash.jpg)
