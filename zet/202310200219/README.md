@@ -49,4 +49,4 @@ Here is a [link to rwx.gg](https://rwx.gg).
 
 ## Images
 Images are just like links with an (!) in front of the square brackets.
-![photo](lachlan-dempsey-6VPEOdpFNAs-unsplash.jpg)
+![photo](lachlan-dempsey-6VPEOdpFNAs-unsplash.jpg).
