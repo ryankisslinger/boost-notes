@@ -1,6 +1,5 @@
 # My notes from the 2023 Beginner Boost
 
-
 Headings begin with octothorpes (#). Include a blank line after the heading to separate from following paragraph.
 
 ```md
@@ -11,7 +10,16 @@ Paragraph
 ## Heading 2
 
 ```
-This is the body of the zettel (which means "slip")
+
+## Formatting
+
+Just use stars.
+
+* Use *one star* for italic (em).
+* Use **two stars** for bold (strong).
+* Use ***three stars*** for bold/italic (strong em).
+* This is `monospace` stuff (pre, code).
+* Use dollar signs for inline math $\sqrt{3x-1}+{1+x}^2$
 
 * First bullet
 * Second bullet
@@ -35,12 +43,9 @@ What if I want *italic* or **bold** or ***bolditalic***
 
 How about something that looks like `code`?
 
-And when I hae a URL I want it to print also so I always write it out like this:
+## Links
 
-https://rwx.gg
+Here is a [link to rwx.gg](https://rwx.gg).
 
-* I put references at the bottom
-
-
-  #zettel #notes
-  
+## Images
+Images are just like links with 
