@@ -53,6 +53,7 @@ Images are just like links with an (!) in front of the square brackets.
 
 ## Hard Breaks
 Roses are red  
-Violets are blue  
+Violets are blue
+
 
 
