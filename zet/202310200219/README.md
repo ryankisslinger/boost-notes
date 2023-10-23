@@ -28,6 +28,7 @@ But, when I have an ordered or numbered list:
 
 1. First
 2. Second
+3. Third
 
 ```go
 package main
@@ -50,6 +51,7 @@ Here is a [link to rwx.gg](https://rwx.gg).
 ## Images
 Images are just like links with an (!) in front of the square brackets.
 ![lachlan-dempsey-6VPEOdpFNAs-unsplash](https://github.com/ryankisslinger/boost-notes/assets/24976000/52c6498e-e19e-4c1c-b4cc-cc89c0adaf50).
+<<<<<<< HEAD
 
 ## Hard Breaks
 Roses are red  
@@ -57,3 +59,5 @@ Violets are blue
 
 
 
+=======
+>>>>>>> refs/remotes/origin/main
