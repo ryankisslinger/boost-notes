@@ -50,11 +50,5 @@ Here is a [link to rwx.gg](https://rwx.gg).
 
 ## Images
 Images are just like links with an (!) in front of the square brackets.
-![lachlan-dempsey-6VPEOdpFNAs-unsplash](https://github.com/ryankisslinger/boost-notes/assets/24976000/52c6498e-e19e-4c1c-b4cc-cc89c0adaf50).
+![lachlan-dempsey-6VPEOdpFNAs-unsplash](https://github.com/ryankisslinger/boost-notes/assets/24976000/52c6498e-e19e-4c1c-b4cc-cc89c0adaf50)
 
-## Hard Breaks
-Roses are red  
-Violets are blue
-
-
-git 
