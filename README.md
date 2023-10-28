@@ -1,4 +1,4 @@
-# My notes from the 2023 Beginner Boost
+# My collection of notes from the 2023 Skilstak Beginner Boost
 
 Headings begin with octothorpes (#). Include a blank line after the heading to separate from following paragraph.
 
@@ -58,4 +58,10 @@ Roses are red
 Violets are blue
 
 
-git 
+## Comments
+Comments are just simple HTML comments, which were inherited from SGML, dating back decades.
+```html
+<!-- This is a comment  -->
+
+<p>This is a markdown paragraph with <!-- another --> comment in it. </p>
+```
