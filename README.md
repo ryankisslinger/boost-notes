@@ -55,12 +55,34 @@ Images are just like links with an (!) in front of the square brackets.
 
 ## Hard Breaks
 Roses are red  
-Violets are blue
+Violets are blue  
 
+## Verbatim blocks
+  ```
+	Roses are red
+	Violets are blue
+  ```
+
+## Blockquotes
+Blockquotes are for quotations and only quotations.
+
+Begin each line of the block with a greater-than sign.
+
+Usually you will just have a single paragraph:
+
+> This is the first part of the quote.
+  >
+  > This is the second part.
+  
+~~~~
+> This is the first part of the quote.
+  >
+  > This is the second part.
+~~~~
 
 ## Comments
 Comments are just simple HTML comments, which were inherited from SGML, dating back decades.
-```html
+```markdown
 <!-- This is a comment  -->
 
 <p>This is a markdown paragraph with <!-- another --> comment in it. </p>
