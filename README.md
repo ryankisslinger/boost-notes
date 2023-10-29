@@ -73,7 +73,7 @@ Usually you will just have a single paragraph:
 > This is the first part of the quote.
   >
   > This is the second part.
-  
+
 ~~~~
 > This is the first part of the quote.
   >
